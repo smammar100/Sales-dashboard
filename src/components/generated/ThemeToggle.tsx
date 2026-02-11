@@ -806,7 +806,7 @@ export const ThemeToggle = () => {
               {/* Total Visitor Chart */}
               <motion.div variants={itemVariants} whileHover={{
               y: -2,
-              boxShadow: '0px 4px 16px -2px rgba(0, 160, 255, 0.12)'
+              boxShadow: '0px 0px 0px 2px rgba(0, 0, 0, 0.1)'
             }} style={{
               flex: 1,
               minWidth: '320px',
@@ -925,7 +925,7 @@ export const ThemeToggle = () => {
               {/* Conversion Rate Funnel */}
               <motion.div variants={itemVariants} whileHover={{
               y: -2,
-              boxShadow: '0px 4px 16px -2px rgba(0, 160, 255, 0.12)'
+              boxShadow: '0px 0px 0px 2px rgba(0, 0, 0, 0.1)'
             }} style={{
               flex: 1,
               minWidth: '320px',
@@ -1084,7 +1084,7 @@ export const ThemeToggle = () => {
             }}>
                 <motion.div variants={itemVariants} whileHover={{
                 y: -2,
-                boxShadow: '0px 4px 16px -2px rgba(0, 160, 255, 0.12)'
+                boxShadow: '0px 0px 0px 2px rgba(0, 0, 0, 0.1)'
               }} style={{
                 backgroundColor: 'rgba(255, 255, 255, 0.025)',
                 border: '1.5px solid rgba(255, 255, 255, 0.02)',
@@ -1252,7 +1252,7 @@ export const ThemeToggle = () => {
             {/* Table: Cost of The Year */}
             <motion.div variants={itemVariants} whileHover={{
             y: -2,
-            boxShadow: '0px 4px 16px -2px rgba(0, 160, 255, 0.12)'
+            boxShadow: '0px 0px 0px 2px rgba(0, 0, 0, 0.1)'
           }} style={{
             backgroundColor: 'rgba(255, 255, 255, 0.02)',
             border: '1.5px solid rgba(42, 42, 44, 0.6)',
